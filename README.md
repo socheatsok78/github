@@ -42,3 +42,23 @@ This is a list of GPG keys associated with your account.
 ```
 https://github.com/{username}.gpg
 ```
+
+## Made with ♥ by GitHub
+
+### GitHub Next
+GitHub Next investigates the future of software development.
+```
+https://githubnext.com/
+```
+
+### Skyline
+Your GitHub story in 3D
+```
+https://skyline.github.com
+```
+
+### #GitHubUnwrapped 2022
+Your coding year in review
+```
+https://www.githubunwrapped.com/
+```
