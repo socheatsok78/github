@@ -26,3 +26,19 @@ This is a list of GPG keys associated with your account.
 ```
 https://github.com/{username}.gpg
 ```
+
+---
+
+## Repository
+
+### Create a new repo
+Create new GitHub repositories shortcuts.
+```
+https://github.new
+```
+
+### Web-based editor
+Press the <kbd>.</kbd> key on any repo or
+```
+https://github.dev
+```
