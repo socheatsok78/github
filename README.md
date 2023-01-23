@@ -1,4 +1,4 @@
-# github.url
+## About
 A list of GitHub Magic URL
 
 ---
