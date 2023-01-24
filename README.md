@@ -3,7 +3,7 @@ A list of GitHub Magic URL
 
 ---
 
-## Repository
+### Repository
 
 ### Create a new repo
 Create new GitHub repositories shortcuts.
@@ -19,7 +19,7 @@ https://github.dev
 
 ---
 
-## User profile
+### User profile
 This is pretty much a simple one.
 ```
 https://github.com/{username}
@@ -44,7 +44,7 @@ https://github.com/{username}.gpg
 ```
 
 ---
-## Made with ♥ by GitHub
+### Made with ♥ by GitHub
 
 ### GitHub Next
 GitHub Next investigates the future of software development.
