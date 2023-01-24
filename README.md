@@ -43,6 +43,7 @@ This is a list of GPG keys associated with your account.
 https://github.com/{username}.gpg
 ```
 
+---
 ## Made with ♥ by GitHub
 
 ### GitHub Next
