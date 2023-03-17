@@ -17,6 +17,19 @@ Press the <kbd>.</kbd> key on any repo or
 https://github.dev
 ```
 
+### Codespace
+
+#### Open in GitHub Codespaces 
+To create "Open in GitHub Codespaces" button, add the following line to your `README.md`.
+
+![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)
+
+```md
+ [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/:owner/:repo)
+```
+
+For more information see: https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository.
+
 ---
 
 ### User profile
